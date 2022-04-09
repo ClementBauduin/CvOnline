@@ -56,6 +56,11 @@ p,h1,h2,li,a {
 		color: white;
 	  }
 
+	a,a:visited, a:hover, a:active {
+		color: #2f2d28;
+	
+	}
+
     #logo {
 
 		font-size:40px;
