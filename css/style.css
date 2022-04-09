@@ -166,6 +166,7 @@ p,h1,h2,li,a {
 		  "experiences experiences-content "
 		  "competences competences-content ";
 		justify-items: center;
+		overflow: hidden;
 	}
 
 	.cv-container h2 {
