@@ -1,3 +1,5 @@
+# Le CV n'est pas à jour ! Online resume is outdated !
+
 Link : https://clementbauduin.github.io/CvOnline/
 
 # CvOnline
